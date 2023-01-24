@@ -1,0 +1,9 @@
+body {
+    background-color: #f5842d;
+}
+
+#canvasContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

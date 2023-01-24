@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.css","mappings":"AAAA,KACI,wBACJ,CAEA,iBAEI,kBAAmB,CADnB,YAAa,CAEb,sBACJ","sources":["webpack://softgames-test-tasks/./src/index.css"],"sourcesContent":["body {\r\n    background-color: #f5842d;\r\n}\r\n\r\n#canvasContainer {\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n}"],"names":[],"sourceRoot":""}
