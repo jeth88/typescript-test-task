@@ -77,7 +77,6 @@ export class Task1Scene extends Scene {
     this._ticker = new PIXI.Ticker()
     this._ticker.stop()
     this._ticker.add((deltaTime) => {
-      console.log('FPS active!!!')
       this._fpsText.text = `FPS: ${this._ticker.FPS.toFixed(2)}`
     })
     this._ticker.start()
